@@ -1,0 +1,27 @@
+Create 3 different folder(C++,Python,Shell script) with single commands 
+
+install cpp python complier 
+
+create minimum 3 different files in each folder 
+
+at desktop create files using touch command
+
+Create 9 File
+
+1 Cpp
+2 CPP
+3 CPP
+
+1 PY 
+2 PY
+3 PY
+
+1 Shell
+2 Shell
+3 Shell
+
+3 Folders with single line
+
+Do all above without using cd by remaining at desktop
+
+Assign the permission and also write the basic code in those 9 files and execute every file in the terminal
